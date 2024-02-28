@@ -1,4 +1,7 @@
 #new repo
 
 
-this is a git course
+this is a git course 
+
+
+and they are awesome
